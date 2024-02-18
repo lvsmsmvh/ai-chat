@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "720013087741",
+    "project_id": "chat-62eab",
+    "storage_bucket": "chat-62eab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720013087741:android:5327623b557f0f9e34bf94",
+        "android_client_info": {
+          "package_name": "com.lvsmsmch.lchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzMyoaLcOZ0X4fiREBZerOLG78XdAED6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

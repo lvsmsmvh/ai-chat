@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name" translatable="false">L Chat</string>
+
+    <string name="prompt_default">Lets assume we are having a chat conversation. You should text to me in short messages and sometimes joke aggressively about yourself or other characters from your field.</string>
+    <string name="prompt_first_message">Send me your first message. Greet me.</string>
+    <string name="prompt_next_message">Send me your next message. Just a message only.</string>
+    <string name="prompt_history">Here is our chat history: </string>
+    <string name="prompt_prefix_me">Me</string>
+    <string name="prompt_prefix_you">You</string>
+
+    <string name="no_browser">No application can handle this request. Please install a web browser.</string>
+    <string name="send">Send</string>
+    <string name="you">You</string>
+    <string name="enter_text_here">Enter text here…</string>
+    <string name="typing">Typing…</string>
+    <string name="picture_of">Picture of %s</string>
+    <string name="message_failed">Failed. Click to reload.</string>
+
+</resources>
